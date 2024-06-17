@@ -133,8 +133,8 @@ image_8  -> Ver adjunto
 
 Necesitamos predecir dos valores:
 
-   1. La recuperación del concentrado rougher rougher.output.recovery.
-   2. La recuperación final del concentrado final.output.recovery.
+   1. La recuperación del concentrado rougher 'rougher.output.recovery'.
+   2. La recuperación final del concentrado 'final.output.recovery'.
 
 La métrica final incluye los dos valores:
 
